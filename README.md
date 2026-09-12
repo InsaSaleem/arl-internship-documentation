@@ -23,7 +23,7 @@ arl-internship-documentation/
 └── README.md
     └── Repository documentation and project overview
 ```
-🏭 1. Attock Refinery Limited (ARL) – IBM Maximo
+# 🏭 1. Attock Refinery Limited (ARL) – IBM Maximo
 
 During my internship at Attock Refinery Limited (ARL), I explored IBM Maximo Asset Management and its role in managing enterprise maintenance and operational processes.
 
@@ -59,10 +59,10 @@ Organizations
 Calendars
 Basic administrative configuration
 
-📄 Detailed documentation:
+## 📄 Detailed documentation:
 Maximo Final Report.pdf
 
-🌐 2. Attock Sahara Foundation (ASF) – Website Development
+# 🌐 2. Attock Sahara Foundation (ASF) – Website Development
 
 This section documents work related to the Attock Sahara Foundation (ASF) website using WordPress and Elementor.
 
