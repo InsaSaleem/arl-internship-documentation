@@ -78,6 +78,8 @@ Worked with document/file presentation and browser compatibility requirements.
 📹 Demonstration:
 ASF Recording.mp4
 
+https://lnkd.in/p/dWEfEVKi
+
 📄 Technical documentation:
 TECHNICAL TROUBLESHOOTING.docx
 
